@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "15137181144",
+    "firebase_url": "https://cheapbeer-dd152.firebaseio.com",
+    "project_id": "cheapbeer-dd152",
+    "storage_bucket": "cheapbeer-dd152.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15137181144:android:c705f81107f5e73d",
+        "android_client_info": {
+          "package_name": "com.example.markjo.cheapbeer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15137181144-3jlqmnhtsatbq0ramp3ltu04v7omqirc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.markjo.cheapbeer",
+            "certificate_hash": "b9cfc62a95b821d68fa024ca4b99978c870a68ad"
+          }
+        },
+        {
+          "client_id": "15137181144-3eqc3c38qc0nede7gra2dote13drr5n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf3DuDNRUOK-2mUCeFwfqnzpOjjmb-4QM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15137181144-3eqc3c38qc0nede7gra2dote13drr5n6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
